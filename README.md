@@ -72,22 +72,23 @@ Driven by curiosity, continuous learning, and real-world problem solving.
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
 </p>
 
-### 🎨 Design 
+### 🎨 Design & Analytics
 <p>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Srivardhan04&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=Srivardhan04&theme=dark&hide_border=false" width="48%"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Srivardhan04&theme=dark&include_all_commits=true&count_private=true"/>
+<img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=Srivardhan04&theme=dark"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srivardhan04&theme=dark&hide_border=false&layout=compact" width="45%"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srivardhan04&layout=compact&theme=dark"/>
 </p>
 
 ---
