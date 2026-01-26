@@ -80,16 +80,18 @@ Driven by curiosity, continuous learning, and real-world problem solving.
 </p>
 
 ---
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Srivardhan04&theme=dark&include_all_commits=true&count_private=true"/>
-<img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=Srivardhan04&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Srivardhan04&theme=dark&include_all_commits=true&count_private=true"/>
 </p>
 
 <p align="center">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srivardhan04&layout=compact&theme=dark"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=Srivardhan04&theme=dark"/>
 </p>
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srivardhan04&layout=compact&theme=dark"/>
+</p>
 
 ---
 
@@ -109,5 +111,5 @@ Focused on clean commits, meaningful features, and real-world problem solving.
 ---
 
 <p align="center">
-<img src="https://visitcount.itsvg.in/api?id=Srivardhan04&color=0"/>
+<img src="https://visitcount.itsvg.in/api?id=Srivardhan04&icon=0&color=0"/>
 </p>
