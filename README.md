@@ -1,15 +1,18 @@
 <h1 align="center">Lakshmi Srivardhan Tallapaneni</h1>
 
 <h3 align="center">
-AI • Machine Learning • Deep Learning • LLMs • Software Development • Full-Stack Development  
+AI • Machine Learning • Deep Learning • LLMs • Software Development • Full-Stack Development
 </h3>
 
 <p align="center">
 A motivated fresher passionate about building intelligent, user-centric solutions.<br>
-Strong interest in AI, Machine Learning, Deep Learning,Software Development and Full-Stack Development.<br>
+Strong interest in AI, Machine Learning, Deep Learning, and Full-Stack Development.<br>
 Driven by curiosity, continuous learning, and real-world problem solving.
 </p>
 
+---
+
+## 🌐 Connect With Me
 <p align="center">
 <a href="mailto:srivardhantalapaneni@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
@@ -69,33 +72,36 @@ Driven by curiosity, continuous learning, and real-world problem solving.
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
 </p>
 
-### 🎨 Design & Analytics
+### 🎨 Design 
 <p>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
 ---
 
 ## 📊 GitHub Analytics
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Srivardhan04&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
-<img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=Srivardhan04&theme=dark&hide_border=false"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Srivardhan04&theme=dark&include_all_commits=true&count_private=true"/>
+<img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=Srivardhan04&theme=dark"/>
 </p>
 
 <p align="center">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srivardhan04&theme=dark&hide_border=false&layout=compact"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srivardhan04&layout=compact&theme=dark"/>
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 Achievements
 <p align="center">
-<img src="https://github.githubassets.com/images/modules/profile/badge--acv-64.png" title="Pair Extraordinaire"/>
-<img src="https://github.githubassets.com/images/modules/profile/badge--yolo-64.png" title="YOLO"/>
-<img src="https://github.githubassets.com/images/modules/profile/badge--pull-shark-64.png" title="Pull Shark"/>
-<img src="https://github.githubassets.com/images/modules/profile/badge--quickdraw-64.png" title="Quickdraw"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/github-badge/github-badge.png" width="60" title="Pair Extraordinaire"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/github-badge/github-badge.png" width="60" title="YOLO"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/github-badge/github-badge.png" width="60" title="Pull Shark"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/github-badge/github-badge.png" width="60" title="Quickdraw"/>
+</p>
+
+<p align="center">
+Pair Extraordinaire • YOLO • Pull Shark • Quickdraw
 </p>
 
 ---
@@ -109,6 +115,5 @@ Focused on clean commits, meaningful features, and real-world problem solving.
 ---
 
 <p align="center">
-<img src="https://visitcount.itsvg.in/api?id=Srivardhan04&icon=0&color=0"/>
+<img src="https://visitcount.itsvg.in/api?id=Srivardhan04&color=0"/>
 </p>
-
