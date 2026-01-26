@@ -72,10 +72,11 @@ Driven by curiosity, continuous learning, and real-world problem solving.
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
 </p>
 
-### 🎨 Design 
+### 🎨 Design & Analytics
 <p>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
 ---
@@ -94,14 +95,7 @@ Driven by curiosity, continuous learning, and real-world problem solving.
 
 ## 🏆 Achievements
 <p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/github-badge/github-badge.png" width="60" title="Pair Extraordinaire"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/github-badge/github-badge.png" width="60" title="YOLO"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/github-badge/github-badge.png" width="60" title="Pull Shark"/>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/github-badge/github-badge.png" width="60" title="Quickdraw"/>
-</p>
-
-<p align="center">
-Pair Extraordinaire • YOLO • Pull Shark • Quickdraw
+<b>Pair Extraordinaire</b> • <b>YOLO</b> • <b>Pull Shark</b> • <b>Quickdraw</b>
 </p>
 
 ---
