@@ -80,6 +80,15 @@ Driven by curiosity, continuous learning, and real-world problem solving.
 </p>
 
 ---
+## 📊 GitHub Stats
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Srivardhan04&theme=dark&include_all_commits=true&count_private=true"/>
+<img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=Srivardhan04&theme=dark"/>
+</p>
+
+<p align="center">
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srivardhan04&layout=compact&theme=dark"/>
+</p>
 
 
 ---
